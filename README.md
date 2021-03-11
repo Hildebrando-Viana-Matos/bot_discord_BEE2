@@ -3,10 +3,12 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <a href="#commands">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+    </li>
+    <li>
+       <a href="#commands">Commands</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -24,22 +26,22 @@
 ## About The Project
 <p>Welcome to my first job fot Discord App. I created this bot to help with some needs and jokes among my friends who use the discord platform.</p>
 
-## Commands
-```sh
- !say your message
- ```
- 
- ```sh
- !clear (number of messages to be deleted)
- ```
- 
- ```sh
- !beijo (@person's name on the server)
- ```
-
 ### Built With
 I used some web technologies in order to train:mortar_board::
 * JavaScript
+
+## Commands
+```sh
+!say your message
+```
+
+```sh
+!clear (number of messages to be deleted)
+```
+
+```sh
+!beijo (@person's name on the server)
+```
 
 ## Getting Started
 You can only see the bot working only on the servers it is on
