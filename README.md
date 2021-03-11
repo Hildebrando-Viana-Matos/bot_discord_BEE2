@@ -51,7 +51,10 @@ You can only see the bot working only on the servers it is on
    ```sh
    git git@github.com:Hildebrando-Viana-Matos/bot_discord_BEE2.git
    ```
-2. Go to your File Explorer and find the index.html file, then open your code editor or click on your browser icon
+2. And now, install the Discord API
+   ```sh
+   npm install discord.js
+   ```
 
 ## Contributing
 
